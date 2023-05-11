@@ -24,6 +24,9 @@ Given each concept in a Dictionary, output it's related discipline and distribut
 ## Run
 
 ### Usage
+
+Put `run.sh` and `generate_field.py` in GLM submodule, then:
+
 ```
 CUDA_VUSUBLE_DEVICES=1 bash run.sh
 ```

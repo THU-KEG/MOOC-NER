@@ -14,7 +14,7 @@ See [README.md](./share_data/README.md)
 
 ## Reproduction
 
-See [README.md](./MOOC-NER/README.md) 
+See [README.md](./DS-MOCE/README.md) 
 
 ## Reference
 

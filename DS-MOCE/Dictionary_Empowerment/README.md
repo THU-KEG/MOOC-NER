@@ -10,7 +10,7 @@ Given each concept in a Dictionary, output it's related discipline and distribut
 - GLM (General Language Model); \
     We apply [GLM](https://github.com/THUDM/GLM) to our classification task in zero-shot setting without fine-tune. \
     We use GLM-Large-Chinese checkpoints of GLM. \
-    For downloading and more information, see `README.md` of GLM. \
+    For downloading and more information, see `README.md` of GLM. 
 
 ## Requires
 
